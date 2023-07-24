@@ -6,6 +6,7 @@ module.exports = {
       colors: {
         red: 'hsl(7, 99%, 70%)',
         yellow: 'hsl(51, 100%, 49%)',
+        lightYellow: 'rgba(255, 247, 0, 0.5)',
         cyan: 'hsl(167, 40%, 24%)',
         blue: 'hsl(198, 62%, 26%)',
         lightCyan: 'hsl(168, 34%, 41%)',
