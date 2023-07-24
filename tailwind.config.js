@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       colors: {
         red: 'hsl(7, 99%, 70%)',
+        lightRed: 'hsla(7, 99%, 70%, 0.3)',
         yellow: 'hsl(51, 100%, 49%)',
         lightYellow: 'rgba(255, 247, 0, 0.5)',
         cyan: 'hsl(167, 40%, 24%)',
