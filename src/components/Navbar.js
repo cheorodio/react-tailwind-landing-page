@@ -9,8 +9,9 @@ export default function Navbar() {
   ];
 
   return (
-    <nav className="flex text-justify justify-between items-center py-10 px-11 absolute z-10 w-full">
-      <p className="font-barlow text-4xl font-bold text-white">sunnyside</p>
+    <nav className="flex text-justify justify-between items-center py-12 px-11 absolute z-10 w-full">
+      {/* <p className="font-barlow text-4xl font-bold text-white">sunnyside</p> */}
+      <img className="w-44" src="/images/logo.svg" alt="logo" />
       <ul className="flex text-justify justify-between items-center gap-12 text-lg text-white cursor-pointer">
         {links.map(({ id, title, link }) => (
           <a href={link} key={`key-li-${id}`}>
