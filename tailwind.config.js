@@ -9,6 +9,10 @@ module.exports = {
         cyan: 'hsl(167, 40%, 24%)',
         blue: 'hsl(198, 62%, 26%)',
         lightCyan: 'hsl(168, 34%, 41%)',
+        darkBlue: 'hsl(212, 27%, 19%)',
+        darkGrayBlue: 'hsl(213, 9%, 39%)',
+        grayBlue: 'hsl(232, 10%, 55%)',
+        lightGrayBlue: 'hsl(210, 4%, 67%)',
       },
       fontFamily: {
         fraunces: ['Fraunces'],
