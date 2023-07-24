@@ -24,7 +24,7 @@ function Home() {
             grow fast. Engage your clients through compelling visuals that do
             most of the marketing for you.
           </p>
-          <a className="uppercase font-fraunces text-base after:content-['']">
+          <a className="uppercase font-fraunces relative before:absolute before:top-3/4 before:h-2 before:w-28 before:-z-10 before:bg-lightYellow">
             Learn more
           </a>
         </div>
