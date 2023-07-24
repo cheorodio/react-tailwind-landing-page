@@ -1,7 +1,7 @@
 # React & Tailwind Landing Page
 
 This is my solution to [Frontend Mentor](https://www.frontendmentor.io) Sunnyside agency landing page challenge. I wanted to get started with using Tailwind that's why I chose this CSS framework for the styling.
-<img src="/images/desktop-preview.jpg" alt="landing page challenge preview"/>
+<img src="https://github.com/cheorodio/react-tailwind-landing-page/assets/121162907/e1c032d9-1eef-431a-ac2f-c4b5c301c6ce" alt="landing page challenge preview"/>
 
 ### The Challenge
 
