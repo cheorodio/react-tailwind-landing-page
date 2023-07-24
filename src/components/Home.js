@@ -19,7 +19,7 @@ function Home() {
           <h2 className="font-fraunces text-[40px] tracking-wide leading-tight">
             Transform your brand
           </h2>
-          <p className="font-barlow text-[18px] text-darkGrayBlue">
+          <p className="font-barlow text-[18px] text-grayBlue">
             We are a full-service creative agency specializing in helping brands
             grow fast. Engage your clients through compelling visuals that do
             most of the marketing for you.
