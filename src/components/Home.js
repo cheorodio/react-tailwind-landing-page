@@ -24,7 +24,7 @@ function Home() {
             grow fast. Engage your clients through compelling visuals that do
             most of the marketing for you.
           </p>
-          <a className="uppercase font-fraunces relative before:absolute before:top-3/4 before:left-0 before:h-2 before:w-32 before:-z-10 before:rounded-3xl w-32 text-center before:bg-lightYellow">
+          <a className="uppercase font-fraunces relative before:absolute before:top-3/4 before:left-0 before:h-2 before:w-32 before:-z-10 before:rounded-3xl w-32 text-center before:bg-lightYellow cursor-pointer">
             Learn more
           </a>
         </div>
@@ -41,7 +41,7 @@ function Home() {
             photographers, videographers, and copywriters, we'll build and
             extend your brand in digital places.
           </p>
-          <a className="uppercase font-fraunces relative before:absolute before:top-3/4 before:left-0 before:h-2 before:w-32 before:-z-10 before:rounded-3xl w-32 text-center before:bg-lightRed">
+          <a className="uppercase font-fraunces relative before:absolute before:top-3/4 before:left-0 before:h-2 before:w-32 before:-z-10 before:rounded-3xl w-32 text-center before:bg-lightRed cursor-pointer">
             Learn more
           </a>
         </div>
