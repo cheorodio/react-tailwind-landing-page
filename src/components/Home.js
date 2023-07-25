@@ -127,6 +127,28 @@ function Home() {
           </div>
         </div>
       </section>
+      <section className="flex w-screen">
+        <img
+          src="/images/image-gallery-milkbottles.jpg"
+          alt="milk bottles"
+          className="w-[360px]"
+        />
+        <img
+          src="/images/image-gallery-orange.jpg"
+          alt="orange"
+          className="w-[360px]"
+        />
+        <img
+          src="/images/image-gallery-cone.jpg"
+          alt="cone"
+          className="w-[360px]"
+        />
+        <img
+          src="/images/image-gallery-sugarcubes.jpg"
+          alt="sugar cubes"
+          className="w-[360px]"
+        />
+      </section>
     </main>
   );
 }
