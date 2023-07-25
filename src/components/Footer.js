@@ -5,7 +5,7 @@ function Footer() {
     <footer className="h-100 bg-footerBg flex items-center justify-center flex-col gap-12 pt-16 pb-24">
       <img src="images/logo.svg" alt="logo" className="w-44" />
       <div className="flex flex-col items-center gap-24">
-        <ul className="flex gap-16 font-barlow text-lg text-lightCyan">
+        <ul className="flex gap-16 font-barlow text-lg text-lightCyan cursor-pointer">
           <li>
             <a>About</a>
           </li>
@@ -17,10 +17,18 @@ function Footer() {
           </li>
         </ul>
         <div className="flex gap-7">
-          <img src="/images/icon-facebook.svg" alt="facebook icon" />
-          <img src="/images/icon-instagram.svg" alt="instagram icon" />
-          <img src="/images/icon-twitter.svg" alt="twitter icon" />
-          <img src="/images/icon-pinterest.svg" alt="pinterest icon" />
+          <a className="cursor-pointer">
+            <img src="/images/icon-facebook.svg" alt="facebook icon" />
+          </a>
+          <a className="cursor-pointer">
+            <img src="/images/icon-instagram.svg" alt="instagram icon" />
+          </a>
+          <a className="cursor-pointer">
+            <img src="/images/icon-twitter.svg" alt="twitter icon" />
+          </a>
+          <a className="cursor-pointer">
+            <img src="/images/icon-pinterest.svg" alt="pinterest icon" />
+          </a>
         </div>
       </div>
     </footer>
