@@ -69,6 +69,64 @@ function Home() {
           </p>
         </div>
       </section>
+      <section className="flex items-center justify-center flex-col gap-20 mt-36">
+        <h2 className="font-fraunces text-xl uppercase tracking-widest text-darkGrayBlue">
+          Client Testimonials
+        </h2>
+        <div className="flex items-center justify-center gap-7 px-44">
+          <div className="flex flex-col items-center text-center gap-14">
+            <img
+              src="images/image-emily.jpg"
+              alt="profile"
+              className="rounded-full h-20 w-20"
+            />
+            <p className="text-lg leading-7">
+              We put our trust in Sunnyside and they delivered, making sure our
+              needs were met and deadlines were always hit.
+            </p>
+            <div>
+              <p className="font-fraunces text-lg">Emily R.</p>
+              <p className="font-barlow text-darkGrayBlue text-sm">
+                Marketing Director
+              </p>
+            </div>
+          </div>
+          <div className="flex flex-col items-center text-center gap-14">
+            <img
+              src="images/image-thomas.jpg"
+              alt="profile"
+              className="rounded-full h-20 w-20"
+            />
+            <p className="text-lg leading-7">
+              Sunnyside's enthusiasm coupled with their keen interest in our
+              brand's success made it a satisfying and enjoyable experience.
+            </p>
+            <div>
+              <p className="font-fraunces text-lg">Thomas S.</p>
+              <p className="font-barlow text-darkGrayBlue text-sm">
+                Chief Operating Officer
+              </p>
+            </div>
+          </div>
+          <div className="flex flex-col items-center text-center gap-14">
+            <img
+              src="images/image-jennie.jpg"
+              alt="profile"
+              className="rounded-full h-20 w-20"
+            />
+            <p className="text-lg leading-7">
+              Incredible end result! Our sales increased over 400% when we
+              worked with Sunnyside. Highly recommended!
+            </p>
+            <div>
+              <p className="font-fraunces text-lg">Jennie F.</p>
+              <p className="font-barlow text-darkGrayBlue text-sm">
+                Business Owner
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
     </main>
   );
 }
