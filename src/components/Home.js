@@ -46,6 +46,29 @@ function Home() {
           </a>
         </div>
       </section>
+      <section className="flex">
+        <div className="relative">
+          <img src="/images/image-graphic-design.jpg" alt="cherry" />
+          <h3 className="absolute bottom-40 left-64 font-fraunces text-3xl text-cyan">
+            Graphic Design
+          </h3>
+          <p className="absolute bottom-16 px-44 text-center text-cyan font-barlow">
+            Great design makes you memorable. We deliver artwork that
+            underscores your brand message and captures potential clients'
+            attention.
+          </p>
+        </div>
+        <div className="relative">
+          <img src="/images/image-photography.jpg" alt="orange" />
+          <h3 className="absolute bottom-40 left-64 font-fraunces text-3xl text-blue">
+            Photography
+          </h3>
+          <p className="absolute bottom-16 px-44 text-center text-blue font-barlow">
+            Increase your credibility by getting the most stunning, high-quality
+            photos that improve your business image.
+          </p>
+        </div>
+      </section>
     </main>
   );
 }
