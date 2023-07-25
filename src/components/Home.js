@@ -69,7 +69,7 @@ function Home() {
           </p>
         </div>
       </section>
-      <section className="flex items-center justify-center flex-col gap-20 mt-36">
+      <section className="flex items-center justify-center flex-col gap-20 h-screen">
         <h2 className="font-fraunces text-xl uppercase tracking-widest text-darkGrayBlue">
           Client Testimonials
         </h2>
